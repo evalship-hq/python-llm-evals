@@ -623,10 +623,10 @@ wheels = [
 
 [[package]]
 name = "tinyeval-cli"
-version = "0.11.0"
+version = "0.12.2"
 source = { registry = "https://pypi.org/simple" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/ed/fd/134191d96ba84a1bf612e03c81214438484dba9f0b2efb129dffd0a6cfc9/tinyeval_cli-0.11.0-py3-none-any.whl", hash = "sha256:3fd1ecfdab55cd2d6ce8b6e7f3d8b5f22ba2889b88858be76feb8f8f7abf78ed", size = 19886, upload-time = "2026-11-11T10:24:14.222Z" },
+    { url = "https://files.pythonhosted.org/packages/84/10/7274d051cff5de04d591de6d2eaddef0890bde02e4acab596f34f5fb0055/tinyeval_cli-0.12.2-py3-none-any.whl", hash = "sha256:d05764b4682d888bc3f7d67834857482b2381e4084906548c85cfcbfe91114c3", size = 20758, upload-time = "2026-11-19T19:51:58.598Z" },
 ]
 
 [[package]]
